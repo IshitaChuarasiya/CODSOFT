@@ -14,7 +14,7 @@ Here's the lowdown on what I used:
 *   I went for a modern, simple design. It's easy to get around and see my work.
 *   It's also responsive, so it looks great on everything from big screens to phones.
 
-  Task 2: Landing Page
+Task 2: Landing Page
 
 * Developed a responsive landing page using HTML and CSS.
 
@@ -22,7 +22,7 @@ Here's the lowdown on what I used:
 
 * Implemented a clean, user-friendly structure with headers, sections, and footers.
 
-  Task 3: Calculator
+Task 3: Calculator
 
 * Created a fully functional calculator using HTML, CSS, and JavaScript.
 
